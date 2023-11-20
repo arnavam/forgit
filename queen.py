@@ -15,9 +15,9 @@ class queen:
   def __str__(self) -> str:
     
    pass
-
+#kJ$2*iG
 q=queen()
-#kJ$2*(iG
+#kJ$2*iG
 def play(q,bd):
     a= q.avial(bd)
 
