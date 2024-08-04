@@ -1,7 +1,7 @@
 class graph :
     def __init__(self) :
         self.graph={}
-        self.count=0
+        self.count=0 
     def addv(self,a):
             if a in self.graph :
                  print(f"{a} already exist")
