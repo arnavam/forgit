@@ -1,3 +1,3 @@
 # forgit
 
-my first initial half backed projects for learning to code in python
+my first initial half baked projects for learning to code in python
