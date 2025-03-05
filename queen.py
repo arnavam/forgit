@@ -14,14 +14,14 @@ class queen:
   def loss(self):
    pass
   def avail(self):
-    return i
+    pass
   def __str__(self) -> str:
     
    pass
 q=queen()
 avail=[i for i  in range(9)]
 bd =q.board
-#kJ$2*iG
+
 def place(avail):
   n=q.q
   j=0
