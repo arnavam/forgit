@@ -1,0 +1,6 @@
+*code-workspace
+__pycache__/
+.vscode
+.DS_store
+*/.DS_store
+
